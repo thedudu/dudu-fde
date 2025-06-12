@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/dudu-fde/static/css/main.e6c13ad2.css",
-    "main.js": "/dudu-fde/static/js/main.6687d2e7.js",
+    "main.js": "/dudu-fde/static/js/main.a7868208.js",
     "static/js/453.0f66c378.chunk.js": "/dudu-fde/static/js/453.0f66c378.chunk.js",
     "index.html": "/dudu-fde/index.html",
     "main.e6c13ad2.css.map": "/dudu-fde/static/css/main.e6c13ad2.css.map",
-    "main.6687d2e7.js.map": "/dudu-fde/static/js/main.6687d2e7.js.map",
+    "main.a7868208.js.map": "/dudu-fde/static/js/main.a7868208.js.map",
     "453.0f66c378.chunk.js.map": "/dudu-fde/static/js/453.0f66c378.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.6687d2e7.js"
+    "static/js/main.a7868208.js"
   ]
 }
